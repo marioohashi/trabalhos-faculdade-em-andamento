@@ -1,0 +1,46 @@
+.header {
+    padding: 50px;
+    background-color: #ccc;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar {
+    font-display: uppercase;
+}
+
+.footer {
+    background-color: #000;
+    color: white;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.footer p{
+    margin: 0 auto;
+}
+
+.main {
+    margin: 50px 10%;
+}
+.main img {
+    width: 100%;
+    
+    object-fit: cover;    
+}
+
+.resultado{
+    margin: 50px auto;
+}
+
+body {
+    margin: 0 !important;
+}
+form {
+    width: 500px;
+}
+form label {
+    width: 100%;
+}
+form input {
+margin: 5px auto;}
